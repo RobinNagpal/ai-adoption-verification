@@ -117,7 +117,7 @@ export default function First() {
             className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
           />
         </div>
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-54">
           {/* <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
               Announcing our next round of funding.{' '}
@@ -129,7 +129,8 @@ export default function First() {
           </div> */}
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-            Protecting Your Enterprise with AI Security
+            {/* Protecting Your Enterprise with AI Security */}
+            Ensuring Safe and Secure AI Integration in Enterprise Applications
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
             Ensure the safe and reliable usage of AI tools in your enterprise applications with our expert solutions. Prevent data breaches, mitigate hallucinations, and unauthorized access.
