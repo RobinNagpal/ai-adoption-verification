@@ -20,6 +20,7 @@ import Fourth from '@/components/Fourth'
 import Fifth from '@/components/Fifth'
 import Sixth from '@/components/Sixth'
 import { Seventh } from '@/components/Seventh'
+import Eigth from '@/components/Eight'
 
 export default function Home() {
   return (
@@ -64,6 +65,7 @@ export default function Home() {
 
         <First />
         <NavBar />
+        <Eigth />
         <Second />
         <Third />
         <Fourth />
