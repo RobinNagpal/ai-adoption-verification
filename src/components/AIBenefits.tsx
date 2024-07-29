@@ -36,11 +36,6 @@ export default function AIBenefits() {
                       </li>
                     ))}
                   </ul>
-                  {/* <div className="mt-10 flex">
-                    <a href="#" className="text-sm font-semibold leading-6 text-indigo-400">
-                      See our job postings <span aria-hidden="true">&rarr;</span>
-                    </a>
-                  </div> */}
                 </div>
               </div>
             </div>

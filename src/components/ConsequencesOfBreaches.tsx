@@ -46,11 +46,6 @@ export default function ConsequencesOfBreaches() {
                 </dt>
                 <dd className="mt-1 flex flex-auto flex-col text-base leading-7 text-gray-300">
                   <p className="flex-auto">{feature.description}</p>
-                  <p className="mt-6">
-                    <a href={feature.href} className="text-sm font-semibold leading-6 text-indigo-400">
-                      {/* Learn more <span aria-hidden="true">→</span> */}
-                    </a>
-                  </p>
                 </dd>
               </div>
             ))}
