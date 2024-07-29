@@ -11,7 +11,7 @@ const navigation = [
   { name: 'Contact Us', href: '#' },
 ]
 
-export default function First() {
+export default function HomePage() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (

@@ -13,7 +13,7 @@
   ```
 */
 
-export default function Sixth() {
+export default function ContactPage() {
   return (
     <section
       className="relative isolate bg-white px-6 py-24 sm:py-32 lg:px-8"

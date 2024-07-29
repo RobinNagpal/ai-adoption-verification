@@ -68,7 +68,7 @@ const features = [
 //   },
 ]
 
-export default function Fourth() {
+export default function Services() {
   return (
     <section className="bg-white py-24 sm:py-32" id="service">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">

@@ -9,7 +9,7 @@ const benefits = [
   'Personalized Customer Experience',
 ]
 
-export default function Eigth() {
+export default function AIBenefits() {
     return (
         <div className="bg-gray-900 py-24 sm:py-32" id='whyAI'>
           <div className="relative isolate">
