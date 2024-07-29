@@ -1,20 +1,20 @@
-import { LifebuoyIcon, NewspaperIcon, PhoneIcon } from '@heroicons/react/20/solid'
+import {CheckCircleIcon, ShieldCheckIcon, HandThumbUpIcon } from '@heroicons/react/20/solid'
 
 const cards = [
   {
     name: 'Reliability',
     description: 'Consistent and accurate performance is essential for user satisfaction and trust.',
-    icon: PhoneIcon,
+    icon: CheckCircleIcon,
   },
   {
     name: 'Trustworthiness',
     description: 'Building confidence among users and stakeholders that your systems are secure, reliable, and free from vulnerabilities.',
-    icon: LifebuoyIcon,
+    icon: ShieldCheckIcon,
   },
   {
     name: 'User and Stakeholder Assurance',
     description: 'Builds confidence in the AI tool capabilities and reduces risks.',
-    icon: NewspaperIcon,
+    icon: HandThumbUpIcon,
   },
 ]
 

@@ -1,4 +1,4 @@
-import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/react/24/outline'
+import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, ExclamationTriangleIcon} from '@heroicons/react/24/outline'
 
 const features = [
   {
@@ -11,7 +11,7 @@ const features = [
     name: 'Prompt Injection Attacks',
     description:
       'Malicious inputs can manipulate AI tool’s prompts, leading to unintended actions or data leaks.',
-    icon: LockClosedIcon,
+    icon: ExclamationTriangleIcon,
   },
   {
     name: 'Output Manipulation and Hallucinations',

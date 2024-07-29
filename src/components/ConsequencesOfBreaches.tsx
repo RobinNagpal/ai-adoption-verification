@@ -1,26 +1,23 @@
-import { InboxIcon, TrashIcon, UsersIcon } from '@heroicons/react/24/outline'
+import {ScaleIcon, WrenchIcon, FaceFrownIcon } from '@heroicons/react/24/outline'
 
 const features = [
   {
     name: 'Loss of Trust',
     description:
       'Erodes customer confidence and damages brand reputation, leading to decreased customer loyalty.',
-    href: '#',
-    icon: InboxIcon,
+    icon: FaceFrownIcon,
   },
   {
     name: 'Legal Repercussions',
     description:
       'Exposes the organization to lawsuits, fines, and regulatory penalties.',
-    href: '#',
-    icon: UsersIcon,
+    icon: ScaleIcon,
   },
   {
     name: 'Operational Disruptions',
     description:
       'Interrupts business operations and impacts productivity.',
-    href: '#',
-    icon: TrashIcon,
+    icon: WrenchIcon,
   },
 ]
 

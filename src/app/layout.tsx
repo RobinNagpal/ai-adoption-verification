@@ -11,9 +11,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Everything Starts as a Square - Get lost in the world of icon design',
+  title: 'AI Security',
   description:
-    'A book and video course that teaches you how to design your own icons from scratch.',
+    'Ensure the safe and reliable usage of AI tools in your enterprise applications with our expert solutions. Prevent data breaches, mitigate hallucinations, and unauthorized access.',
 }
 
 export default function RootLayout({
