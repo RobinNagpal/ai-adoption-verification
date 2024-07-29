@@ -14,6 +14,7 @@ const sections = [
   //     </>
   //   ),
   // },
+  { id: 'whyAI', title: 'Why AI?' },
   { id: 'challenge', title: 'Challanges' },
   { id: 'service', title: 'Our Services' },
   { id: 'benefit', title: 'Benefits' },

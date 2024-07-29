@@ -18,7 +18,7 @@ const cards = [
   },
 ]
 
-export default function Fifth() {
+export default function ImportanceOfTesting() {
   return (
     <section className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32" id='benefit'>
       <img
