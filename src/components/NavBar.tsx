@@ -5,15 +5,6 @@ import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
 
 const sections = [
-  // {
-  //   id: 'table-of-contents',
-  //   title: (
-  //     <>
-  //       <span className="hidden lg:inline">Table of contents</span>
-  //       <span className="lg:hidden">Contents</span>
-  //     </>
-  //   ),
-  // },
   { id: 'whyAI', title: 'Why AI?' },
   { id: 'challenge', title: 'Challanges' },
   { id: 'service', title: 'Our Services' },
