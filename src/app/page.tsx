@@ -13,10 +13,18 @@ import { Testimonials } from '@/components/Testimonials'
 import avatarImage1 from '@/images/avatars/avatar-1.png'
 import avatarImage2 from '@/images/avatars/avatar-2.png'
 
+import First from '@/components/First'
+import Second from '@/components/Second'
+import Third from '@/components/Third'
+import Fourth from '@/components/Fourth'
+import Fifth from '@/components/Fifth'
+import Sixth from '@/components/Sixth'
+import { Seventh } from '@/components/Seventh'
+
 export default function Home() {
   return (
     <>
-      <Hero />
+      {/* <Hero />
       <Introduction />
       <NavBar />
       <TableOfContents />
@@ -52,7 +60,16 @@ export default function Home() {
       <Pricing />
       <Testimonials />
       <Author />
-      <Footer />
+      <Footer /> */}
+
+        <First />
+        <NavBar />
+        <Second />
+        <Third />
+        <Fourth />
+        <Fifth />
+        <Sixth />
+        <Seventh />
     </>
   )
 }

@@ -5,19 +5,19 @@ import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
 
 const sections = [
-  {
-    id: 'table-of-contents',
-    title: (
-      <>
-        <span className="hidden lg:inline">Table of contents</span>
-        <span className="lg:hidden">Contents</span>
-      </>
-    ),
-  },
-  { id: 'screencasts', title: 'Screencasts' },
-  { id: 'resources', title: 'Resources' },
-  { id: 'pricing', title: 'Pricing' },
-  { id: 'author', title: 'Author' },
+  // {
+  //   id: 'table-of-contents',
+  //   title: (
+  //     <>
+  //       <span className="hidden lg:inline">Table of contents</span>
+  //       <span className="lg:hidden">Contents</span>
+  //     </>
+  //   ),
+  // },
+  { id: 'challenge', title: 'Challanges' },
+  { id: 'service', title: 'Our Services' },
+  { id: 'benefit', title: 'Benefits' },
+  { id: 'contact', title: 'Contact Us' },
 ]
 
 function MenuIcon({
@@ -156,7 +156,7 @@ export function NavBar() {
           </>
         )}
       </Popover>
-      <div className="hidden sm:flex sm:h-32 sm:justify-center sm:border-b sm:border-slate-200 sm:bg-white/95 sm:[@supports(backdrop-filter:blur(0))]:bg-white/80 sm:[@supports(backdrop-filter:blur(0))]:backdrop-blur">
+      <div className="hidden sm:flex sm:h-24 sm:justify-center sm:border-b sm:border-slate-200 sm:bg-white/95 sm:[@supports(backdrop-filter:blur(0))]:bg-white/80 sm:[@supports(backdrop-filter:blur(0))]:backdrop-blur">
         <ol
           role="list"
           className="mb-[-2px] grid auto-cols-[minmax(0,15rem)] grid-flow-col text-base font-medium text-slate-900 [counter-reset:section]"
