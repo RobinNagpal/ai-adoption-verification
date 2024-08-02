@@ -10,8 +10,8 @@ export function Footer() {
             <Link href="/" passHref>
           <img
               alt=""
-              src="/final_logo.png"
-              className="h-20 w-auto"
+              src="/logo.webp"
+              className="h-12 w-auto"
             />
             </Link>
           </div>

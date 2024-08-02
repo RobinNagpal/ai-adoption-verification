@@ -131,10 +131,10 @@ export default function ContactPage() {
           <div className="lg:mt-0 lg:w-80 lg:flex-none">
             <img
               alt=""
-              src="/final_logo.png"
-              className="h-20 w-auto"
+              src="/AI_GUARD_Rectange.webp"
+              className="h-12 w-auto"
             />
-            <figure className="mt-4">
+            <figure className="mt-8">
               <blockquote className="text-lg font-semibold leading-8 text-gray-900">
                 <p>
                   “In today's data-driven world, ensuring the security and
