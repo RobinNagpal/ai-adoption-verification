@@ -131,7 +131,7 @@ export default function ContactPage() {
           <div className="lg:mt-0 lg:w-80 lg:flex-none">
             <img
               alt=""
-              src="https://media.licdn.com/dms/image/C560BAQEJTLwPwZ28kQ/company-logo_200_200/0/1645005218411/dodao_logo?e=1730332800&v=beta&t=Xe-DKqQST6jNI_uQm9ZZD8GPOhr5pFSyNtAfd6Z4sHM"
+              src="/AI_GUARD_Rectange.webp"
               className="h-12 w-auto"
             />
             <figure className="mt-8">

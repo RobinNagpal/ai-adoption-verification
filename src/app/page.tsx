@@ -11,15 +11,15 @@ import AIBenefits from '@/components/AIBenefits'
 export default function Home() {
   return (
     <>
-        <HomePage />
-        <NavBar />
-        <AIBenefits />
-        <Challenges />
-        <ConsequencesOfBreaches />
-        <Services />
-        <ImportanceOfTesting />
-        <ContactPage />
-        <Footer />
+      <HomePage />
+      <NavBar />
+      <AIBenefits />
+      <Challenges />
+      <ConsequencesOfBreaches />
+      <Services />
+      <ImportanceOfTesting />
+      <ContactPage />
+      <Footer />
     </>
   )
 }
