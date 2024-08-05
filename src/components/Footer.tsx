@@ -16,7 +16,7 @@ export function Footer() {
             </Link>
           </div>
           <p className="mt-6 text-sm text-slate-500 sm:mt-0">
-            Copyright &copy; {new Date().getFullYear()} DoDAO. All rights
+            Copyright &copy; {new Date().getFullYear()} AI Guard House. All rights
             reserved.
           </p>
         </div>
