@@ -11,7 +11,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'AI Security',
+  title: 'AI Guard House',
   description:
     'Ensure the safe and reliable usage of AI tools in your enterprise applications with our expert solutions. Prevent data breaches, mitigate hallucinations, and unauthorized access.',
 }
